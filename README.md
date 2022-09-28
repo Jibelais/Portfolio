@@ -13,7 +13,11 @@
 |Day 6| Present | Incomplete
 
 ## Wireframes
-![](img/wireframe.png)
+![main page](img/wireframe.png)
+
+![project page](img/project.png)
+
+![contact page](img/contact.png)
  
 
 ## Time/Priority Matrix 
