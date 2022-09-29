@@ -40,7 +40,7 @@
 | --- | :---: |  :---: | :---: | 
 | Main Navigation | H | 2hr | hr |
 | Project Previews | H | 3hr | hr |
-| Email icon | H | 2hr|  hr | 
+| Email Submission Form | H | 2hr|  hr | 
 | Layout and flex| M | 4hr | hr|
 | Responsive | H | 3hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
@@ -50,9 +50,9 @@
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Special effect on project preview | L | 3hr | -hr | hr |
-| Animated introdction  | L | 4hr | hr |
-| Email submission form | M | 4hr | hr |
+| Special effect on project preview | L | 4hr | -hr | hr |
+| Animated introdction  | L | 5hr | hr |
+| CSS Touch up | M | 2hr | hr |
 | Total | H | 11hrs| hrs |
 
 
