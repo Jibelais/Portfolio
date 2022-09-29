@@ -38,11 +38,10 @@
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger Menu | H | 1.5hr | hr |
+| Main Navigation | H | 2hr | hr |
 | Project Previews | H | 3hr | hr |
-| Regular Nav | H | 2hr | hr |  
-| Adding Form | H | 2.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
+| Email icon | H | 2hr|  hr | 
+| Layout and flex| M | 4hr | hr|
 | Responsive | H | 3hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
 | Total | H | 15 hrs| hrs |
@@ -51,13 +50,10 @@
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Project Hover | L | 3hr | -hr | hr |
-| Banner letters wiggle | L | 2hr | hr |
-| Interactive Banner | M | 4hr | hr |
-| Materialize | H | 4hr | -hr | hr |
-| Bootstrap | H | 4hr | hr |
-| Make own icon | L | 4hr | hr |
-| Total | H | 21hrs| hrs |
+| Special effect on project preview | L | 3hr | -hr | hr |
+| Animated introdction  | L | 4hr | hr |
+| Email submission form | M | 4hr | hr |
+| Total | H | 11hrs| hrs |
 
 
 
