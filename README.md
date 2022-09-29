@@ -3,12 +3,12 @@
 
 ## Contents
 
-* About Me
+* **About Me**
 	1. Personal statement 
 	2. Skills
-* Projects
+* **Projects**
 
-* Contact 
+* **Contact**
 	1. Email submit form 
 	2. Link to social media		
 
