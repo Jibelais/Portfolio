@@ -1,6 +1,18 @@
 # My Portfolio 
 
 
+## Contents
+
+* About Me
+	1. Personal statement 
+	2. Skills
+* Projects
+
+* Contact 
+	1. Email submit form 
+	2. Link to social media		
+
+
 ## Project Schedule
 
 |  Day | Deliverable | Status
