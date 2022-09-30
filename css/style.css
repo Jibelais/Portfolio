@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+ 
+}
+
+header{
+    display: flex; 
+    justify-content: space-between;
+    margin: 20px; 
+
+}
+.menu-container, .content, .work, .contact{
+    display: flex;
+    justify-content: center; 
+}
+
+.menu-container > div, header > div{
+    border: 1px solid grey; 
+    padding: 10px;
+    margin: 30px 10px 0 0;
+    
+}
+
+.catagory {
+    margin: 50px 0 0 0; 
+    text-align: center;
+}
+.content > img, .content > p {
+    
+    width: 400px; 
+    height: 600px;
+    border: 1px solid lightgrey; 
+    padding: 10px; 
+    margin: 50px 20px 50px; 
+    font-size: 30px; 
+}
+
+.work > div{
+    width: 300px;
+    height: 200px; 
+    border: 1px dotted lightgrey; 
+    margin: 50px 10px; 
+    
+}
