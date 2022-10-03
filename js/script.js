@@ -15,8 +15,6 @@ fetch(url)
 findCat.addEventListener('click', (evt) => {
    evt.preventDefault()
    let breed = input.value
-//    (input.value).substring(0,4)
-//    fetch(`https://api.thecatapi.com/v1/images/search?breed_ids=${breed}`)
     fetch(`https://api.thecatapi.com/v1/breeds/search?name=${input.value}`)
    .then((res) => res.json())
    .then((data) => {
@@ -27,7 +25,5 @@ findCat.addEventListener('click', (evt) => {
         photo.src = data2[0].url
      })
 
-
-    // console.log(data[0].url)
    })
 })
