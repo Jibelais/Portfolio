@@ -3,14 +3,16 @@
 
 ## Contents
 
-* **About Me**
+* **Main**
 	1. Personal statement 
-	2. Skills
-* **Projects**
 
+* **About Me**
+	1. Technical skills
+	2. Soft kills
+* **Projects**
+	1. API projects
 * **Contact**
-	1. Email submit form 
-	2. Link to social media		
+	1. Icon to link email, social media, github
 
 
 ## Project Schedule
@@ -20,7 +22,7 @@
 |Day 1| Project Description | complete
 |Day 2| Wireframes / Priority Matrix / Timeline | complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | complete
-|Day 4| MVP & Bug Fixes | Incomplete
+|Day 4| MVP & Bug Fixes | In progress
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
