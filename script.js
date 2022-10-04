@@ -23,6 +23,7 @@ findCat.addEventListener('click', (evt) => {
         .then((data2) => {
         photo.src = data2[0].url
      })
-    input.value = ''
+   
    })
+   input.value = ''
 })
