@@ -10,7 +10,7 @@
 	1. Technical skills
 	2. Soft kills
 * **Projects**
-	1. API projects
+	1. Project placeholders
 * **Contact**
 	1. Icon to link email, social media, github
 
