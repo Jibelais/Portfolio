@@ -19,10 +19,10 @@
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | complete
-|Day 2| Wireframes / Priority Matrix / Timeline | complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | complete
-|Day 4| MVP & Bug Fixes | In progress
+|Day 1| Project Description | completed
+|Day 2| Wireframes / Priority Matrix / Timeline | completed
+|Day 3| Core Application Structure (HTML, CSS, etc.) | completed
+|Day 4| MVP & Bug Fixes | completed
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
@@ -42,7 +42,7 @@
 | --- | :---: |  :---: | :---: | 
 | Main Navigation | H | 2hr | hr |
 | Project Previews | H | 3hr | hr |
-| Email Submission Form | H | 2hr|  hr | 
+| Working with API | H | 2hr|  hr | 
 | Layout and flex| M | 4hr | hr|
 | Responsive | H | 3hr | hr | hr |
 | Social Media Icons | L | 1hr |  hr |
