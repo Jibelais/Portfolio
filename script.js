@@ -27,3 +27,4 @@ findCat.addEventListener('click', (evt) => {
    })
    input.value = ''
 })
+
