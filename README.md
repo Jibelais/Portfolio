@@ -65,5 +65,8 @@
 
 
 ## Issues and Resolutions
+*The folder structure caused broken links after deploying to gibhub pages.  To work-around, the folder structure has been removed, not final solution. 
+
+*Project preview has some layout issue.  It's deliverable for now, but it needs better solution. 
 
  
