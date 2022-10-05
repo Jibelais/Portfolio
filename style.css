@@ -203,10 +203,10 @@ a:visited {
     to { bottom:0px; opacity:1 }
   }
   
-  @keyframes animatebottom { 
+  /* @keyframes animatebottom { 
     from{ bottom:-100px; opacity:0 } 
     to{ bottom:0; opacity:1 }
-  }
+  } */
 
 /* Media query for mobile phone */
 @media screen and (max-width: 600px) {
