@@ -287,5 +287,9 @@ a:visited {
     iframe{
         width: 120%
     }
+
+    button{
+        color:black;
+    }
 }
 
