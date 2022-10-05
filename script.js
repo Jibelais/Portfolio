@@ -2,22 +2,17 @@ const findCat = document.querySelector("button")
 const input = document.querySelector('input')
 const photo = document.getElementById('cat-pic')
 
-
-const url = "https://api.thecatapi.com/v1/breeds"
-fetch(url)
-    .then(res =>{
-        console.log("success")
-    })
-    .catch(err => {
-        console.log ("error")
-    })
-
+//Fetches data from cat API.  
 findCat.addEventListener('click', (evt) => {
    evt.preventDefault()
     fetch(`https://api.thecatapi.com/v1/breeds/search?name=${input.value}`)
    .then((res) => res.json())
    .then((data) => {
     let breed = (data[0].id)
+        /*
+        Image search can be done only with cad's unique ID, not cat's breed. 
+        First, fetch cat's ID with the user's input, then get image from the image data with matching ID. 
+        */ 
         fetch(`https://api.thecatapi.com/v1/images/search?breed_ids=${breed}`)
         .then((res2) => res2.json())
         .then((data2) => {
@@ -27,9 +22,3 @@ findCat.addEventListener('click', (evt) => {
    })
    input.value = ''
 })
-
-const project1 = document.getElementById('project1')
-
-project1.onmouseover = project1.style.color = "red"
-
-console.log(project1.img)

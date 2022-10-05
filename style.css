@@ -150,6 +150,10 @@ h3, .interest >p{
     width: 50%;
     height: auto; 
 }
+.format2{
+    font-size: 12px; 
+    font-style: italic;
+}
 
 /* Work page contents */
 .work {
