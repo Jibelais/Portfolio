@@ -28,3 +28,8 @@ findCat.addEventListener('click', (evt) => {
    input.value = ''
 })
 
+const project1 = document.getElementById('project1')
+
+project1.onmouseover = project1.style.color = "red"
+
+console.log(project1.img)
